@@ -5,16 +5,18 @@ import dotenv from "dotenv";
 
 dotenv.config();
 
+const emailAddress = "askscamsensei@gmail.com"
+
 const mailTransporter = Nodemailer.createTransport({
   service: "gmail",
   auth: {
-    user: "yatchpartyforever@gmail.com",
+    user: emailAddress,
     pass: process.env.GMAIL_PASSWORD,
   },
 });
 
 const mailListener = new MailListener({
-  username: "yatchpartyforever@gmail.com",
+  username: emailAddress,
   password: process.env.GMAIL_PASSWORD,
   host: "imap.gmail.com",
   port: 993, // imap port
@@ -63,13 +65,16 @@ mailListener.on("mail", async function (mail, seqno, attributes) {
     cookie: process.env.BING_CHAT_COOKIE,
   });
 
-  const res = await api.sendMessage("Is this a scam email?\n\n" + mail.text);
+  const res = await api.sendMessage(`Senior citizens who are likely of getting scammed have sent an email to ask whether the following email is a scam. Can you help craft an email to respond to the senior citizen whether the email they received is scam or not with language that is targeted towards senior citizens? Please refer to them with "Hi there" and sign off as "Scam Sensei". Do not include anything in your response other than the email body.
+  """
+  ${mail.text}
+  """`);
 
   console.log(res.text);
   // mail processing code goes here
 
   let mailDetails = {
-    from: "scamchat@gmail.com",
+    from: emailAddress,
     to: senderEmail,
     inReplyTo: messageId,
     subject: "Re: " + subject,
