@@ -1,7 +1,5 @@
 # Scam Sensei
 
-# Scam Sensei
-
 Scam Sensei is an AI-powered email scam detection and response system designed to assist senior citizens and individuals in Singapore in identifying and handling potential scam emails. This project listens for emails sent to `askscamsensei@gmail.com` and utilizes generative AI, along with the power of the internet, to determine whether an email is a scam or not. It then crafts a personalized email response to the user, providing guidance and tips to identify scam emails.
 
 ## How it Works
