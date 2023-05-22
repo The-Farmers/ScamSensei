@@ -1,5 +1,7 @@
 # Scam Sensei
 
+<img align="left" src="https://github.com/The-Farmers/ScamSensei/assets/68203159/76b9bbe3-d0e6-4df6-88cd-66edfaa364b1" width="150px">
+
 Scam Sensei is an AI-powered email scam detection and response system designed to assist senior citizens and individuals in Singapore in identifying and handling potential scam emails. This project listens for emails sent to `askscamsensei@gmail.com` and utilizes generative AI, along with the power of the internet, to determine whether an email is a scam or not. It then crafts a personalized email response to the user, providing guidance and tips to identify scam emails.
 
 ## How it Works
@@ -26,12 +28,10 @@ Scam Sensei is specifically developed to assist senior citizens and individuals 
 
 ## Disclaimer
 
-Scam Sensei is a tool designed to assist users in identifying potential scam emails, but it cannot guarantee 100% accuracy. It is always recommended to exercise caution and consider additional factors before taking any action based on the results provided by Scam Sensei. This README was generated with ChatGPT 3.5 and perfected by the makers of Scam Sensei.
+Scam Sensei is a tool designed to assist users in identifying potential scam emails, but it cannot guarantee 100% accuracy. It is always recommended to exercise caution and consider additional factors before taking any action based on the results provided by Scam Sensei. 
 
-## License
+## Feedback
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and distribute it according to the terms of the license.
+If you have any questions, suggestions, or encounter any issues while using Scam Sensei, please record your feedback by creating a new issue in the [ScamSensei Issue Tracker](https://github.com/The-Farmers/ScamSensei/issues). We value your feedback and will respond as soon as possible.
 
-## Contact
-
-If you have any questions, suggestions, or encounter any issues while using Scam Sensei, please reach out to us at `askscamsensei@gmail.com`. We value your feedback and will respond as soon as possible.
+> This README was generated with ChatGPT 3.5 and perfected by the makers of Scam Sensei.
