@@ -6,7 +6,7 @@ Scam Sensei is an AI-powered email scam detection and response system designed t
 
 ## How it Works
 
-1. **Forward the email**: To use Scam Sensei, simply forward the suspicious email you received to `askscamsensei@gmail.com`. 
+1. **Forward the email**: To use Scam Sensei, simply forward the suspicious email you received to [askscamsensei@gmail.com](mailto:askscamsensei@gmail.com). 
 
 2. **AI-powered analysis**: Scam Sensei employs cutting-edge generative AI techniques and utilizes the vast resources available on the internet to analyze the forwarded email.
 
@@ -20,7 +20,7 @@ Scam Sensei is specifically developed to assist senior citizens and individuals 
 
 ## Benefits
 
-- **Quick and easy**: Scam Sensei streamlines the process of identifying scam emails. Users only need to forward the suspicious email to `askscamsensei@gmail.com` and receive a response within a few minutes.
+- **Quick and easy**: Scam Sensei streamlines the process of identifying scam emails. Users only need to forward the suspicious email to [askscamsensei@gmail.com](mailto:askscamsensei@gmail.com) and receive a response within a few minutes.
 
 - **AI-powered accuracy**: By leveraging generative AI (Bing Chat) and the wealth of information available on the internet, Scam Sensei offers a robust scam detection system that continually learns and improves its accuracy.
 
