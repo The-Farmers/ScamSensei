@@ -1,9 +1,17 @@
 {
+  "name": "ScamSensei",
+  "version": "1.0.0",
+  "main": "index.js",
   "dependencies": {
     "bing-chat": "^0.2.3",
     "dotenv": "^16.0.3",
     "mail-listener2": "^0.3.1",
     "nodemailer": "^6.9.2"
   },
-  "type": "module"
+  "type": "module",
+  "repository": "git@github.com:The-Farmers/ScamSensei.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
 }
