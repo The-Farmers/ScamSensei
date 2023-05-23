@@ -12,6 +12,6 @@
   "repository": "git@github.com:The-Farmers/ScamSensei.git",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
-  }
+    "test": "echo \"No tests specified\""
+  },
 }
