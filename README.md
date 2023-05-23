@@ -44,6 +44,14 @@ Scam Sensei is specifically developed to assist senior citizens and individuals 
 
 [prompts.md](/prompts.md) documents the prompts we have iterated on to arrive at the final selected prompt which gives the most useful/helpful response from Bing Chat.
 
+## Setup
+
+1. Contact our team to obtain the `.env` file.
+
+2. Clone this repo and run `yarn install && yarn start` to start the server.
+
+3. Start sending emails to [askscamsensei@gmail.com](mailto:askscamsensei@gmail.com) or any dev email address of your choice by [changing the email address and the associated password](https://github.com/The-Farmers/ScamSensei/blob/main/index.js#L8-L20).
+
 ## Disclaimer
 
 Scam Sensei is a tool designed to assist users in identifying potential scam emails, but it cannot guarantee 100% accuracy. It is always recommended to exercise caution and consider additional factors before taking any action based on the results provided by Scam Sensei. 
