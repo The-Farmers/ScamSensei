@@ -34,4 +34,4 @@ Scam Sensei is a tool designed to assist users in identifying potential scam ema
 
 If you have any questions, suggestions, or encounter any issues while using Scam Sensei, please record your feedback by creating a new issue in the [ScamSensei Issue Tracker](https://github.com/The-Farmers/ScamSensei/issues). We value your feedback and will respond as soon as possible.
 
-> This README was generated with ChatGPT 3.5 and perfected by the makers of Scam Sensei.
+_This README was generated with ChatGPT 3.5 and perfected by the makers of Scam Sensei._
