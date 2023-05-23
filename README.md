@@ -52,6 +52,15 @@ Scam Sensei is specifically developed to assist senior citizens and individuals 
 
 3. Start sending emails to [askscamsensei@gmail.com](mailto:askscamsensei@gmail.com) or any dev email address of your choice by [changing the email address and the associated password](https://github.com/The-Farmers/ScamSensei/blob/main/index.js#L8-L20).
 
+## Team
+
+| Name | Username | Email |
+|------|----------|------|
+| Charisma Kausar | [@ckcherry23](https://github.com/ckcherry23) | [charisma.kausar@gmail.com](mailto:charisma.kausar@gmail.com) |
+| Cynthia Lee | [@sinteary](https://github.com/sinteary) | [leewengyancynthia@gmail.com](mailto:leewengyancynthia@gmail.com) |
+| Tan Kai Qun, Jeremy | [@JermyTan](https://github.com/JermyTan) | [tan_kai_qun97@yahoo.com.sg](mailto:tan_kai_qun97@yahoo.com.sg) |
+| Tan Kai Xin, Nicole | [@redpoof](https://github.com/redpoof) | [nicoletankaixin@gmail.com](mailto:nicoletankaixin@gmail.com) |
+
 ## Disclaimer
 
 Scam Sensei is a tool designed to assist users in identifying potential scam emails, but it cannot guarantee 100% accuracy. It is always recommended to exercise caution and consider additional factors before taking any action based on the results provided by Scam Sensei. 
